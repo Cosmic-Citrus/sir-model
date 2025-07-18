@@ -1,6 +1,6 @@
 # Repo:    sir-model
 
-The purpose of this project is to explore different SIR models.
+The purpose of this project is to explore the SIR model.
 
 ## Description
 
