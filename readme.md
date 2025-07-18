@@ -1,4 +1,4 @@
-# Repo:    sir-model
+# Repo:    sir-model
 
 The purpose of this project is to explore different SIR models.
 
